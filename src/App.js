@@ -5,6 +5,7 @@ export default function App() {
     <div className="App">
       <h1>Farhan Waseer</h1>
       <h1>Over Menu </h1>
+      <h1>Over Menu </h1>
       <h2>Falafa</h2>
       <p>Chickpea, herbs and spices.</p>
       {/* <img src="falafel.jpeg" width="240" height="300" alt="A falafel"> */}
